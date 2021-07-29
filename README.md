@@ -1,4 +1,5 @@
 # vue-notes-app
+App from practicing breaking HTML into separate component files.
 
 ## Project setup
 ```
